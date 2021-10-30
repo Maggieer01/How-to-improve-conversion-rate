@@ -13,12 +13,18 @@ descriptive analysis (python pandas), random forest (python sklearn)
 # This practice answers the following questions:
 
 1, what is the user profile?
+
 2, what is the association between conversion rate and the user profile?
+
 3, what are some key indicators for a high/low conversion rate?
+
 4, what would a group of users with a high conversion rate look like?
+
 5, If we wanna run a marketing campaign, what do think could be the target
 audience?
+
 6, How do you predict the conversion rate? What model do you wanna use?
 Implement it
+
 7, After completing your model, think about what would be the next after having
 the prediction? Eg. how to improve conversion rate based on the prediction?
